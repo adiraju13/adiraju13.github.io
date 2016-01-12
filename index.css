@@ -1,0 +1,35 @@
+body{
+    background-color: azure;
+}
+
+.jumbotron {
+    background-image: url("images/JumboBG.png");
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+.jumbotron h1{
+    color: white;
+}
+
+.jumbotron h3{
+    color: white;
+}
+
+.card1{
+    border-style: solid;
+}
+
+.card1 h3{
+    text-align: center;
+}
+
+.navbar{
+    margin-bottom: 0px;
+}
+
+cardsAtBottom{
+    margin:auto;
+}
